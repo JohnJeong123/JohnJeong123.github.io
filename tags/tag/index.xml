@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weicome&#39;s Reading Log</title>
-    <link>https://johnjeong123.github.io/</link>
-    <description>Recent content on Weicome&#39;s Reading Log</description>
+    <title>Tag on Weicome&#39;s Reading Log</title>
+    <link>https://johnjeong123.github.io/tags/tag/</link>
+    <description>Recent content in Tag on Weicome&#39;s Reading Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 17:55:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 17:32:27 +0900</lastBuildDate>
     
-	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://johnjeong123.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://johnjeong123.github.io/about/</link>
-      <pubDate>Thu, 13 Dec 2018 17:55:03 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/about/</guid>
-      <description>Email:frenchofkiss@gmail.com</description>
-    </item>
     
     <item>
       <title>Wow</title>
