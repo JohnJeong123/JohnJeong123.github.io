@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 17:32:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 17:44:55 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post Title</title>
+      <link>https://johnjeong123.github.io/posts/post-title/</link>
+      <pubDate>Thu, 13 Dec 2018 17:44:55 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/post-title/</guid>
+      <description>hihi hihih hiihihi</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://johnjeong123.github.io/posts/test/</link>
+      <pubDate>Thu, 13 Dec 2018 17:39:22 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wow</title>
