@@ -7,17 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 19:54:00 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tag</title>
-      <link>https://johnjeong123.github.io/tags/tag/</link>
+      <title>골든아워</title>
+      <link>https://johnjeong123.github.io/tags/%EA%B3%A8%EB%93%A0%EC%95%84%EC%9B%8C/</link>
       <pubDate>Thu, 13 Dec 2018 19:54:00 +0900</pubDate>
       
-      <guid>https://johnjeong123.github.io/tags/tag/</guid>
+      <guid>https://johnjeong123.github.io/tags/%EA%B3%A8%EB%93%A0%EC%95%84%EC%9B%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>이국종</title>
+      <link>https://johnjeong123.github.io/tags/%EC%9D%B4%EA%B5%AD%EC%A2%85/</link>
+      <pubDate>Thu, 13 Dec 2018 19:54:00 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/tags/%EC%9D%B4%EA%B5%AD%EC%A2%85/</guid>
       <description></description>
     </item>
     
