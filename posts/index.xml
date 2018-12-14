@@ -16,8 +16,85 @@
 			<pubDate>Thu, 13 Dec 2018 19:54:00 +0900</pubDate>
 			
 			<guid>https://johnjeong123.github.io/posts/288%EB%B2%88%EC%A7%B8%EC%B1%85%EA%B3%A8%EB%93%A0%EC%95%84%EC%9B%8C-%EC%9D%B4%EA%B5%AD%EC%A2%85/</guid>
-			<description></description>
-			<content type="html"><![CDATA[]]></content>
+			<description>나는 중증외상센터 설립 과정에서 실제 한국 사회가 운영되어가는 메커니즘을 체득했다. 그 과정은 매일 고통 속에서 몸부림칠 만큼 지옥 같았다. 시스템은 부재했고, 근</description>
+			<content type="html"><![CDATA[<blockquote>
+<p>나는 중증외상센터 설립 과정에서 실제 한국 사회가 운영되어가는 메커니즘을 체득했다.
+그 과정은 매일 고통 속에서 몸부림칠 만큼 지옥 같았다. 시스템은 부재했고, 근거없는 소문은 끝없이 떠돌았으며, 부조리와 불합리가 난무하는 가운데 돈 냄세를 좇는 그림자들만이 선명했다. 그 속에서 우리 팀원들은 힘겹게 버텨왔다.</p>
+</blockquote>
+
+<p>⋅⋅⋅ 이국종 교수가 겪은 고통은 사회가 한 개인에게 저지른 폭력과 다를 바 없다. 저항할 수 없는 힘이 자신에게 휘몰아쳐 올 때 그 압박감과 좌절을 견뎌 낼 수 있는 사람이 얼마나 될까? 세월호 참사, 고 백남기 농민의 사망, 고 노무현 전 대통령이 떠오른다.
+⋅⋅⋅ 다른 사람의 일이라 치부할 수 없는 것은, 사회로부터 겪는 고통이 한 개인의 고통으로 끝나지 않고 나에게 혹은 내 지인들에게도 칼날이 향할 수 있기 때문이다.
+⋅⋅⋅ 많은 사람들을 보면서 배운 것은 부조리와 불합리에 가장 현명하게 대처하는 방법이 발산이 아닌 응축이라는 점이다. 고 노무현 전 대통령을 보좌했고 지금은 대한민국의 대통령인 문재인 대통령을 보며 배운 점이다.
+⋅⋅⋅ 배려의 반대말은 폭력이다. 즉 개인을 배려하지 않는 문화, 언론, 대중, 권력은 그 자체로 폭력이다. 조직과 공동체를 위한다는 명목하에 이뤄지는 공공연한 폭력을 그냥 좌시해서는 안된다.<br />
+⋅⋅⋅ 사회적 폭력을 조장하는 문화와 분위기에 동조하지 말자. 그러기 위해서는 원칙이 분명해야 한다. 원칙주의자 문재인을 더 연구해볼 필요가 있다.</p>
+
+<blockquote>
+<p>터진 장기를 꿰매어 다시 붙여놓아도 내가 생사에 깊이 관여하는 것은 거기까지다. 수술 후에 파열 부위가 아물어가는 것은 수술적 영역을 벗어난 이야기이고, 나는 환자의 몸이 스스로 작동해 치유되는 과정을 기다려야만 한다. 그 지난한 기다림 속에서 내가 할 수 있는 일은 각종 인공생명유지장치들을 총동원해 환자에게 쏟아붓는 것뿐이고, 그것은 치료를 ‘돕는’ 일에 지나지 않는다. 내가 직접 환자를 온전히 살려낸다거나 살려냈다고 할 수 있는가. 나는 그 질문에 답할 수 없었다. 외과 의사로 살아가는 시간이 쌓여갈수록 외과 의사로서 나의 한계를 명백히 느꼈다.</p>
+</blockquote>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>https://johnjeong123.github.io/posts/template/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://johnjeong123.github.io/posts/template/</guid>
+			<description>헤더
+H1 H2 H3 H4 H5 H6 이탤릭체 Emphasis, aka italics, with asterisks or underscores.
+강조 Strong emphasis, aka bold, with asterisks or underscores.
+Combined emphasis with asterisks and underscores.
+취소선 Strikethrough uses two tildes. Scratch this.
+들여쓰기 ⋅⋅⋅
+블러추가
+* 링크예제 I&amp;rsquo;m an inline-style link
+이미지 블럭에 집어넣기 2줄 이상도 실제로는 이어짐. &amp;gt; Blockquotes are very handy in email to emulate reply text. &amp;gt; Blockquotes are very handy in email to emulate reply text.</description>
+			<content type="html"><![CDATA[
+
+<p>헤더</p>
+
+<h1 id="h1">H1</h1>
+
+<h2 id="h2">H2</h2>
+
+<h3 id="h3">H3</h3>
+
+<h4 id="h4">H4</h4>
+
+<h5 id="h5">H5</h5>
+
+<h6 id="h6">H6</h6>
+
+<p>이탤릭체
+Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
+
+<p>강조
+Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+
+<p>취소선
+Strikethrough uses two tildes. <del>Scratch this.</del></p>
+
+<p>들여쓰기
+⋅⋅⋅</p>
+
+<p>블러추가</p>
+
+<h2 id="toc_6">*</h2>
+
+<p>링크예제
+<a href="https://www.google.com" target="_blank">I&rsquo;m an inline-style link</a></p>
+
+<p>이미지
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
+
+<p>블럭에 집어넣기 2줄 이상도 실제로는 이어짐.
+&gt; Blockquotes are very handy in email to emulate reply text.
+&gt; Blockquotes are very handy in email to emulate reply text.</p>
+
+<h2 id="줄넣기">줄넣기</h2>
+]]></content>
 		</item>
 		
 	</channel>
