@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 13 Dec 2018 19:54:00 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[288번째책]골든아워-이국종</title>
+      <link>https://johnjeong123.github.io/posts/288%EB%B2%88%EC%A7%B8%EC%B1%85%EA%B3%A8%EB%93%A0%EC%95%84%EC%9B%8C-%EC%9D%B4%EA%B5%AD%EC%A2%85/</link>
+      <pubDate>Thu, 13 Dec 2018 19:54:00 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/288%EB%B2%88%EC%A7%B8%EC%B1%85%EA%B3%A8%EB%93%A0%EC%95%84%EC%9B%8C-%EC%9D%B4%EA%B5%AD%EC%A2%85/</guid>
+      <description>책속의 한구절 나는 중증외상센터 설립 과정에서 실제 한국 사회가 운영되어가는 메커니즘을 체득했다. 그 과정은 매일 고통 속에서 몸부림칠 만큼 지옥 같았다. 시스템은</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://johnjeong123.github.io/about/</link>
+      <pubDate>Thu, 13 Dec 2018 17:55:03 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/about/</guid>
+      <description>Email : frenchofkiss@gmail.com 작가지망 개발자</description>
+    </item>
     
   </channel>
 </rss>
