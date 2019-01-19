@@ -7,37 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 20 Jan 2019 01:50:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 21:29:14 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>한글임돠</title>
-      <link>https://johnjeong123.github.io/posts/%ED%95%9C%EA%B8%80%EC%9E%84%EB%8F%A0/</link>
-      <pubDate>Sun, 20 Jan 2019 01:50:29 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/%ED%95%9C%EA%B8%80%EC%9E%84%EB%8F%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testst</title>
-      <link>https://johnjeong123.github.io/posts/testst/</link>
-      <pubDate>Sun, 20 Jan 2019 01:48:13 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/testst/</guid>
-      <description>test!@#$</description>
-    </item>
-    
-    <item>
-      <title>한글</title>
-      <link>https://johnjeong123.github.io/posts/%ED%95%9C%EA%B8%80/</link>
-      <pubDate>Sun, 20 Jan 2019 01:35:51 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/%ED%95%9C%EA%B8%80/</guid>
-      <description>한글</description>
-    </item>
     
     <item>
       <title>[302번째책] 고통은 나눌 수 있는가 엄기호</title>
@@ -100,6 +73,33 @@
       
       <guid>https://johnjeong123.github.io/posts/296%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%B1%85%EC%9D%84%EC%9D%BD%EA%B3%A0%EB%A7%A4%EC%B6%9C%EC%9D%98%EC%8B%A0%EC%9D%B4%EB%90%98%EB%8B%A4-%EA%B3%A0%EB%AA%85%ED%99%98/</guid>
       <description>책속의 한구절 암만 생각해봐도 나는 책을 읽은 것밖에 없다. 무언가 결정을 하기 전에 그 분야의 책을 읽고 책에서 답을 찾으려 애쓴 것밖에 없다. 그런데 인생이 완전히 바뀌</description>
+    </item>
+    
+    <item>
+      <title>[295번째책] 장하준의경제학강의 장하준</title>
+      <link>https://johnjeong123.github.io/posts/295%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98%EA%B2%BD%EC%A0%9C%ED%95%99%EA%B0%95%EC%9D%98-%EC%9E%A5%ED%95%98%EC%A4%80/</link>
+      <pubDate>Sat, 12 Jan 2019 09:36:45 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/295%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98%EA%B2%BD%EC%A0%9C%ED%95%99%EA%B0%95%EC%9D%98-%EC%9E%A5%ED%95%98%EC%A4%80/</guid>
+      <description>책속의 한구절 우리는 적절한 전문 지식이 없이도 온갖 일에 강한 의사 표현을 하곤 한다. 기후 변화, 동성 결혼, 이라크 전쟁, 핵 발전소 등등. 그러나 평소에는 강한 의사</description>
+    </item>
+    
+    <item>
+      <title>[294번째책] 똑바로살아라 신정일</title>
+      <link>https://johnjeong123.github.io/posts/294%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%98%91%EB%B0%94%EB%A1%9C%EC%82%B4%EC%95%84%EB%9D%BC-%EC%8B%A0%EC%A0%95%EC%9D%BC/</link>
+      <pubDate>Sun, 06 Jan 2019 09:06:14 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/294%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%98%91%EB%B0%94%EB%A1%9C%EC%82%B4%EC%95%84%EB%9D%BC-%EC%8B%A0%EC%A0%95%EC%9D%BC/</guid>
+      <description>책속의 한구절 &amp;mdash; &amp;gt; 백성이 나라의 근본이므로 모든 문제를 백성의 입장에서 풀어 가야 하고, 백성을 위하고, 백성을 사랑하고, 백성을 존중하고, 백성을 보호하고, 백</description>
+    </item>
+    
+    <item>
+      <title>[293번째책] 무엇으로 읽을 것인가 제이슨머코스키</title>
+      <link>https://johnjeong123.github.io/posts/293%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%AC%B4%EC%97%87%EC%9C%BC%EB%A1%9C%EC%9D%BD%EC%9D%84%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%A8%B8%EC%BD%94%EC%8A%A4%ED%82%A4/</link>
+      <pubDate>Wed, 02 Jan 2019 21:08:39 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/293%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%AC%B4%EC%97%87%EC%9C%BC%EB%A1%9C%EC%9D%BD%EC%9D%84%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%A8%B8%EC%BD%94%EC%8A%A4%ED%82%A4/</guid>
+      <description>책속의 한구절 나는 아마존 킨들 팀의 창업 멤버로서 책을 읽는 방법을 획기적으로 바꾸어놓은 독서 혁명을 시작한 몇 안 되는 사람들 중 한 명이었다. 나는 모든 언어로 쓰인 모</description>
     </item>
     
   </channel>
