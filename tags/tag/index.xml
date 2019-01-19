@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 20 Jan 2019 01:35:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 01:50:29 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>한글임돠</title>
+      <link>https://johnjeong123.github.io/posts/%ED%95%9C%EA%B8%80%EC%9E%84%EB%8F%A0/</link>
+      <pubDate>Sun, 20 Jan 2019 01:50:29 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/%ED%95%9C%EA%B8%80%EC%9E%84%EB%8F%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testst</title>
+      <link>https://johnjeong123.github.io/posts/testst/</link>
+      <pubDate>Sun, 20 Jan 2019 01:48:13 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/testst/</guid>
+      <description>test!@#$</description>
+    </item>
     
     <item>
       <title>한글</title>
