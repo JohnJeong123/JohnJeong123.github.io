@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 19 Jan 2019 21:29:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 16:25:01 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[303번째책] 상속의 역사 백승종</title>
+      <link>https://johnjeong123.github.io/posts/303%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%83%81%EC%86%8D%EC%9D%98-%EC%97%AD%EC%82%AC-%EB%B0%B1%EC%8A%B9%EC%A2%85/</link>
+      <pubDate>Sat, 26 Jan 2019 16:25:01 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/303%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%83%81%EC%86%8D%EC%9D%98-%EC%97%AD%EC%82%AC-%EB%B0%B1%EC%8A%B9%EC%A2%85/</guid>
+      <description>책속의 한구절 ‘높은 세율 때문에 국내에서는 도무지 어떤 사업도 못하겠다’는 아우성과는 달리 법이 규정한 세금을 제대로 내는 부자는 거의 없다. 시민들이 기억하는 착</description>
+    </item>
     
     <item>
       <title>[302번째책] 고통은 나눌 수 있는가 엄기호</title>
@@ -91,15 +100,6 @@
       
       <guid>https://johnjeong123.github.io/posts/294%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%98%91%EB%B0%94%EB%A1%9C%EC%82%B4%EC%95%84%EB%9D%BC-%EC%8B%A0%EC%A0%95%EC%9D%BC/</guid>
       <description>책속의 한구절 &amp;mdash; &amp;gt; 백성이 나라의 근본이므로 모든 문제를 백성의 입장에서 풀어 가야 하고, 백성을 위하고, 백성을 사랑하고, 백성을 존중하고, 백성을 보호하고, 백</description>
-    </item>
-    
-    <item>
-      <title>[293번째책] 무엇으로 읽을 것인가 제이슨머코스키</title>
-      <link>https://johnjeong123.github.io/posts/293%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%AC%B4%EC%97%87%EC%9C%BC%EB%A1%9C%EC%9D%BD%EC%9D%84%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%A8%B8%EC%BD%94%EC%8A%A4%ED%82%A4/</link>
-      <pubDate>Wed, 02 Jan 2019 21:08:39 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/293%EB%B2%88%EC%A7%B8%EC%B1%85-%EB%AC%B4%EC%97%87%EC%9C%BC%EB%A1%9C%EC%9D%BD%EC%9D%84%EA%B2%83%EC%9D%B8%EA%B0%80-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%A8%B8%EC%BD%94%EC%8A%A4%ED%82%A4/</guid>
-      <description>책속의 한구절 나는 아마존 킨들 팀의 창업 멤버로서 책을 읽는 방법을 획기적으로 바꾸어놓은 독서 혁명을 시작한 몇 안 되는 사람들 중 한 명이었다. 나는 모든 언어로 쓰인 모</description>
     </item>
     
   </channel>
