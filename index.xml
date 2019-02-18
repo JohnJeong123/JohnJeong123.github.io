@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 14 Feb 2019 22:08:48 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Feb 2019 17:38:48 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[310번째책] 사부의 요리 이연복</title>
+      <link>https://johnjeong123.github.io/posts/310%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%82%AC%EB%B6%80%EC%9D%98-%EC%9A%94%EB%A6%AC-%EC%9D%B4%EC%97%B0%EB%B3%B5/</link>
+      <pubDate>Sun, 17 Feb 2019 17:38:48 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/310%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%82%AC%EB%B6%80%EC%9D%98-%EC%9A%94%EB%A6%AC-%EC%9D%B4%EC%97%B0%EB%B3%B5/</guid>
+      <description>오문오답 1) 저자가 말하고 싶은 것이 무엇인가? 중식 요리사로서 마음가짐, 저자 이연복이 사람을 대하는 자세. 일하는 사람으로서의 태도를 독자에게 전달한다. 2) 다</description>
+    </item>
     
     <item>
       <title>[309번째책] 수축사회 홍성국</title>
@@ -91,15 +100,6 @@
       
       <guid>https://johnjeong123.github.io/posts/301%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%8B%AC%ED%94%8C%EC%9D%84-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-%EB%AA%A8%EB%A6%AC%EC%B9%B4%EC%99%80-%EC%95%84%ED%82%A4%EB%9D%BC/</guid>
       <description>책속의 한구절 회사는 무엇이 가장 중요할까? 이익? 사원들의 행복? 브랜드? 전략? 비즈니스 모델? 나는 아니라고 본다. 물론 모두 중요하다. 그런데 가장 중요하지</description>
-    </item>
-    
-    <item>
-      <title>[300번째책] 회계의신 하야시 아츠무</title>
-      <link>https://johnjeong123.github.io/posts/300%EB%B2%88%EC%A7%B8%EC%B1%85-%ED%9A%8C%EA%B3%84%EC%9D%98%EC%8B%A0-%ED%95%98%EC%95%BC%EC%8B%9C-%EC%95%84%EC%B8%A0%EB%AC%B4/</link>
-      <pubDate>Thu, 17 Jan 2019 09:39:23 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/300%EB%B2%88%EC%A7%B8%EC%B1%85-%ED%9A%8C%EA%B3%84%EC%9D%98%EC%8B%A0-%ED%95%98%EC%95%BC%EC%8B%9C-%EC%95%84%EC%B8%A0%EB%AC%B4/</guid>
-      <description>책속의 한구절 비즈니스에서 중요한 것은 회계 기간을 딱딱 끊어서 보는 순간적인 ‘이익’이 아니라 장기적으로 보았을 때 안정적인 이익(현금)을 창출하는 ‘고객을 창</description>
     </item>
     
   </channel>

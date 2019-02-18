@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://johnjeong123.github.io/posts/310%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%82%AC%EB%B6%80%EC%9D%98-%EC%9A%94%EB%A6%AC-%EC%9D%B4%EC%97%B0%EB%B3%B5/</loc>
+    <lastmod>2019-02-17T17:38:48+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johnjeong123.github.io/posts/309%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%88%98%EC%B6%95%EC%82%AC%ED%9A%8C-%ED%99%8D%EC%84%B1%EA%B5%AD/</loc>
-    <lastmod>2019-02-15T14:02:45+09:00</lastmod>
+    <lastmod>2019-02-15T14:03:57+09:00</lastmod>
   </url>
   
   <url>
@@ -147,7 +152,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/posts/</loc>
-    <lastmod>2019-02-15T14:02:45+09:00</lastmod>
+    <lastmod>2019-02-17T17:38:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,7 +170,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/</loc>
-    <lastmod>2019-02-15T14:02:45+09:00</lastmod>
+    <lastmod>2019-02-17T17:38:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,6 +265,12 @@
   </url>
   
   <url>
+    <loc>https://johnjeong123.github.io/tags/%EC%82%AC%EB%B6%80%EC%9D%98%EC%9A%94%EB%A6%AC/</loc>
+    <lastmod>2019-02-17T17:38:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnjeong123.github.io/tags/%EC%82%AC%EC%9D%B4%ED%86%A0%EB%8B%A4%EC%B9%B4%EC%8B%9C/</loc>
     <lastmod>2019-02-02T08:03:54+09:00</lastmod>
     <priority>0</priority>
@@ -285,7 +296,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/tags/%EC%88%98%EC%B6%95%EC%82%AC%ED%9A%8C/</loc>
-    <lastmod>2019-02-15T14:02:45+09:00</lastmod>
+    <lastmod>2019-02-15T14:03:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -328,6 +339,12 @@
   <url>
     <loc>https://johnjeong123.github.io/tags/%EC%9D%B4%EA%B7%BC%ED%9B%84/</loc>
     <lastmod>2019-01-08T11:16:52+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnjeong123.github.io/tags/%EC%9D%B4%EC%97%B0%EB%B3%B5/</loc>
+    <lastmod>2019-02-17T17:38:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -375,7 +392,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/tags/%ED%99%8D%EC%84%B1%EA%B5%AD/</loc>
-    <lastmod>2019-02-15T14:02:45+09:00</lastmod>
+    <lastmod>2019-02-15T14:03:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
