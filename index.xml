@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 28 Feb 2019 22:14:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 08:46:17 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[320번째책] 책먹는법 김이경</title>
+      <link>https://johnjeong123.github.io/posts/320%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%B1%85%EB%A8%B9%EB%8A%94%EB%B2%95-%EA%B9%80%EC%9D%B4%EA%B2%BD/</link>
+      <pubDate>Sat, 02 Mar 2019 08:46:17 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/320%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%B1%85%EB%A8%B9%EB%8A%94%EB%B2%95-%EA%B9%80%EC%9D%B4%EA%B2%BD/</guid>
+      <description>오문오답 1) 저자가 말하고 싶은 것이 무엇인가? 독서모임을 20년정도 진행해오면서, 책읽는 사람들이 흔히 빠지는 잘못된 독서법들을 개선해주고자, 문학읽기의 필</description>
+    </item>
     
     <item>
       <title>[319번째책] 플라이백 박창진</title>
@@ -91,15 +100,6 @@
       
       <guid>https://johnjeong123.github.io/posts/311%EB%B2%88%EC%A7%B8%EC%B1%85-%ED%98%BC%EC%9E%90%EB%A7%8C-%EA%B9%A8%EC%9A%B0%EC%B9%98%EB%A9%B4-%EB%AD%A3-%ED%95%98%EA%B2%A0%EB%8A%94%EA%B0%80-%EC%A7%84%EC%98%A4%EC%8A%A4%EB%8B%98/</guid>
       <description>오문오답 1) 저자가 말하고 싶은 것이 무엇인가? 한국에서 일하며 생활하는 이주노동자의 열악한 환경과 개선을 위한 관심을 호소한다. 2) 다 읽은 후에 어떤 생각이 떠올랐</description>
-    </item>
-    
-    <item>
-      <title>[310번째책] 사부의 요리 이연복</title>
-      <link>https://johnjeong123.github.io/posts/310%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%82%AC%EB%B6%80%EC%9D%98-%EC%9A%94%EB%A6%AC-%EC%9D%B4%EC%97%B0%EB%B3%B5/</link>
-      <pubDate>Sun, 17 Feb 2019 17:38:48 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/310%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%82%AC%EB%B6%80%EC%9D%98-%EC%9A%94%EB%A6%AC-%EC%9D%B4%EC%97%B0%EB%B3%B5/</guid>
-      <description>오문오답 1) 저자가 말하고 싶은 것이 무엇인가? 중식 요리사로서 마음가짐, 저자 이연복이 사람을 대하는 자세. 일하는 사람으로서의 태도를 독자에게 전달한다. 2) 다</description>
     </item>
     
   </channel>
