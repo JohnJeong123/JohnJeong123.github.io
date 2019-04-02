@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://johnjeong123.github.io/posts/327%EB%B2%88%EC%A7%B8%EC%B1%85-90%EB%85%84%EC%83%9D%EC%9D%B4%EC%98%A8%EB%8B%A4-%EC%9E%84%ED%99%8D%ED%83%9D/</loc>
+    <lastmod>2019-04-02T09:14:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johnjeong123.github.io/posts/326%EB%B2%88%EC%A7%B8%EC%B1%85-%ED%83%9C%EB%8F%84%EC%9D%98%EB%A7%90%EB%93%A4-%EC%97%84%EC%A7%80%ED%98%9C/</loc>
-    <lastmod>2019-03-23T17:26:07+09:00</lastmod>
+    <lastmod>2019-03-23T17:41:49+09:00</lastmod>
   </url>
   
   <url>
@@ -231,8 +236,14 @@
   </url>
   
   <url>
+    <loc>https://johnjeong123.github.io/tags/90%EB%85%84%EC%83%9D%EC%9D%B4%EC%98%A8%EB%8B%A4/</loc>
+    <lastmod>2019-04-02T09:14:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://johnjeong123.github.io/posts/</loc>
-    <lastmod>2019-03-23T17:26:07+09:00</lastmod>
+    <lastmod>2019-04-02T09:14:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,7 +261,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/</loc>
-    <lastmod>2019-03-23T17:26:07+09:00</lastmod>
+    <lastmod>2019-04-02T09:14:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -520,7 +531,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/tags/%EC%97%84%EC%A7%80%ED%98%9C/</loc>
-    <lastmod>2019-03-23T17:26:07+09:00</lastmod>
+    <lastmod>2019-03-23T17:41:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -563,6 +574,12 @@
   <url>
     <loc>https://johnjeong123.github.io/tags/%EC%9D%BC%EC%A0%95%EC%B9%98%EC%AB%84%EC%A7%80%EB%A7%88/</loc>
     <lastmod>2019-02-09T20:15:49+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnjeong123.github.io/tags/%EC%9E%84%ED%99%8D%ED%83%9D/</loc>
+    <lastmod>2019-04-02T09:14:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -622,7 +639,7 @@
   
   <url>
     <loc>https://johnjeong123.github.io/tags/%ED%83%9C%EB%8F%84%EC%9D%98%EB%A7%90%EB%93%A4/</loc>
-    <lastmod>2019-03-23T17:26:07+09:00</lastmod>
+    <lastmod>2019-03-23T17:41:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
