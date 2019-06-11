@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>말그릇 on Weicome&#39;s thinking log</title>
+    <link>https://johnjeong123.github.io/tags/%EB%A7%90%EA%B7%B8%EB%A6%87/</link>
+    <description>Recent content in 말그릇 on Weicome&#39;s thinking log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 10 Jun 2019 23:36:41 +0900</lastBuildDate>
+    
+	<atom:link href="https://johnjeong123.github.io/tags/%EB%A7%90%EA%B7%B8%EB%A6%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>말그릇</title>
+      <link>https://johnjeong123.github.io/posts/%EB%A7%90%EA%B7%B8%EB%A6%87/</link>
+      <pubDate>Mon, 10 Jun 2019 23:36:41 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/%EB%A7%90%EA%B7%B8%EB%A6%87/</guid>
+      <description>무심코 던진 말이라도 일단 입 밖으로 나온 말은 사람의 마음에 파장을 일으킨다. ‘그렇게 할 거면 그만두라’는 상사의 말에 밤잠을 설치고, ‘해낼 거라고 믿는다’는 한</description>
+    </item>
+    
+  </channel>
+</rss>

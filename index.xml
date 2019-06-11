@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 02 Apr 2019 09:14:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 23:36:41 +0900</lastBuildDate>
     
 	<atom:link href="https://johnjeong123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>말그릇</title>
+      <link>https://johnjeong123.github.io/posts/%EB%A7%90%EA%B7%B8%EB%A6%87/</link>
+      <pubDate>Mon, 10 Jun 2019 23:36:41 +0900</pubDate>
+      
+      <guid>https://johnjeong123.github.io/posts/%EB%A7%90%EA%B7%B8%EB%A6%87/</guid>
+      <description>무심코 던진 말이라도 일단 입 밖으로 나온 말은 사람의 마음에 파장을 일으킨다. ‘그렇게 할 거면 그만두라’는 상사의 말에 밤잠을 설치고, ‘해낼 거라고 믿는다’는 한</description>
+    </item>
     
     <item>
       <title>[327번째책] 90년생이온다 임홍택</title>
@@ -91,15 +100,6 @@
       
       <guid>https://johnjeong123.github.io/posts/319%EB%B2%88%EC%A7%B8%EC%B1%85-%ED%94%8C%EB%9D%BC%EC%9D%B4%EB%B0%B1-%EB%B0%95%EC%B0%BD%EC%A7%84/</guid>
       <description>오문오답 1) 저자가 말하고 싶은 것이 무엇인가? 회사외 직원, 갑과 을의 관계에서 노예처럼 인간의 존엄이 짓밟힌 상황의 반복을 막고, 권리를 되찾기 위해 끝까지 투쟁하</description>
-    </item>
-    
-    <item>
-      <title>[318번째책] 스타벅스웨이 조셉미첼리</title>
-      <link>https://johnjeong123.github.io/posts/318%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EC%9B%A8%EC%9D%B4-%EC%A1%B0%EC%85%89%EB%AF%B8%EC%B2%BC%EB%A6%AC/</link>
-      <pubDate>Wed, 27 Feb 2019 22:14:28 +0900</pubDate>
-      
-      <guid>https://johnjeong123.github.io/posts/318%EB%B2%88%EC%A7%B8%EC%B1%85-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EC%9B%A8%EC%9D%B4-%EC%A1%B0%EC%85%89%EB%AF%B8%EC%B2%BC%EB%A6%AC/</guid>
-      <description>오문오답 1) 저자가 말하고 싶은 것이 무엇인가? 사랑, 인간애, 겸손을 바탕으로 성장한 스타벅스의 성공신화 2) 다 읽은 후에 어떤 생각이 떠올랐는가? 스타벅스의 성공</description>
     </item>
     
   </channel>
